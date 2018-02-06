@@ -1,0 +1,7 @@
+.idea/
+*.key
+*.pem
+*.crt
+*.csr
+*/data/*
+*/vendor/*

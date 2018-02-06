@@ -1,0 +1,1 @@
+install docker then run `docker-compose up`
